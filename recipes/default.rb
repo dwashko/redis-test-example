@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: redis_cluster
+# Cookbook Name:: redis-test
 # Recipe:: default
 #
 # Copyright (c) 2016 Gannett Co., Inc, All Rights Reserved.
