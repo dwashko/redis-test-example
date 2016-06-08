@@ -1,8 +1,8 @@
 #
-# Cookbook Name:: redis-test
+# Cookbook Name:: redis_cluster
 # Recipe:: default
 #
-# Copyright (C) 2016 YOUR_NAME
-#
-# All rights reserved - Do Not Redistribute
-#
+# Copyright (c) 2016 Gannett Co., Inc, All Rights Reserved.
+
+include_recipe 'redisio'
+include_recipe 'redisio::enable'
